@@ -6,4 +6,10 @@
     <string name="rewind">Rewind</string>
     <string name="forward">Forward</string>
     <string name="carRadio">Awesome Car Radio</string>
+    <string name="station">Station:</string>
+    <string name="frequency">101.9</string>
+    <string name="song">Song:</string>
+    <string name="AM">AM</string>
+    <string name="FM">FM</string>
+    <string name="volume">Volume</string>
 </resources>
