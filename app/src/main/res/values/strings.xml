@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CarStereo</string>
+    <string name="Eject">Eject</string>
+    <string name="cassetteTape">CASSETTE TAPE</string>
+    <string name="Play">Play/Pause</string>
+    <string name="rewind">Rewind</string>
+    <string name="forward">Forward</string>
+    <string name="carRadio">Awesome Car Radio</string>
 </resources>
